@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Dialogs>
+  <user JID="588280635683@odnoklassniki.ru">
+    <text>Я: Привет
+Максим Громов: Привет
+Максим Громов: Привет
+Максим Громов: при
+</text>
+    <rtf>{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs17\'df: \cf2\'cf\'f0\'e8\'e2\'e5\'f2\par
+\cf3\'cc\'e0\'ea\'f1\'e8\'ec \'c3\'f0\'ee\'ec\'ee\'e2: \cf2\'cf\'f0\'e8\'e2\'e5\'f2\par
+\cf0\'cc\'e0\'ea\'f1\'e8\'ec \'c3\'f0\'ee\'ec\'ee\'e2: \cf2\'cf\'f0\'e8\'e2\'e5\'f2\par
+\cf0\'cc\'e0\'ea\'f1\'e8\'ec \'c3\'f0\'ee\'ec\'ee\'e2: \cf2\'ef\'f0\'e8\par
+\cf0\par
+}
+</rtf>
+  </user>
+  <user JID="545339062786@odnoklassniki.ru">
+    <text>Я: Привет
+</text>
+    <rtf>{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs17\'df: \cf2\'cf\'f0\'e8\'e2\'e5\'f2\par
+\cf0\par
+}
+</rtf>
+  </user>
+</Dialogs>
